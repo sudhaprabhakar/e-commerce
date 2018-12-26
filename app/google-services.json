@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "1068860403095",
+    "firebase_url": "https://myecommerceproject-4f53c.firebaseio.com",
+    "project_id": "myecommerceproject-4f53c",
+    "storage_bucket": "myecommerceproject-4f53c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068860403095:android:4f8ebc256290a7f0",
+        "android_client_info": {
+          "package_name": "allinonecyberteam.com.e_commerce_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068860403095-nl476fg6cv7tfmas03a6hn3sj766ed5e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "allinonecyberteam.com.e_commerce_android",
+            "certificate_hash": "e4181da53814e438edd01954d344d1fab47772b0"
+          }
+        },
+        {
+          "client_id": "1068860403095-0udm2d8mmrlt9051cn91f4ifkm7akfnv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe9Y5JVd1nNdttwzPuPLi9SXkIwqpWAqU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068860403095-0udm2d8mmrlt9051cn91f4ifkm7akfnv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068860403095:android:8ed10104086ec6b4",
+        "android_client_info": {
+          "package_name": "allinonecyberteam.com.e_commercesignup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068860403095-0udm2d8mmrlt9051cn91f4ifkm7akfnv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe9Y5JVd1nNdttwzPuPLi9SXkIwqpWAqU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068860403095:android:dc537d0903562f8a",
+        "android_client_info": {
+          "package_name": "allinonecyberteam.com.signup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068860403095-2hlpkrq4c90v1sftjanvtvt9jtsdr7mm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "allinonecyberteam.com.signup",
+            "certificate_hash": "2e2bef61394b51f679555d28f3eae86da00964be"
+          }
+        },
+        {
+          "client_id": "1068860403095-0udm2d8mmrlt9051cn91f4ifkm7akfnv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe9Y5JVd1nNdttwzPuPLi9SXkIwqpWAqU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068860403095-0udm2d8mmrlt9051cn91f4ifkm7akfnv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

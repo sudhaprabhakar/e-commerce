@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SignUp</string>
+    <string name="email_hint">Your Email..</string>
+    <string name="reg_confirm_pass_text">Confirm password...</string>
+    <string name="reg_btn_text">Register Yourself</string>
+    <string name="reg_login_btn">Already have an Account?</string>
+    <string name="reg_pass_text">Password..</string>
+    <string name="title_activity_home_page">HomePage</string>
+    <string name="title_activity_log_in">LogIn</string>
+</resources>
